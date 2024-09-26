@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_box_content_box_contents",
+  "info": {
+    "displayName": "box-content",
+    "icon": "stack",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "text_block": {
+      "type": "string"
+    },
+    "content_block": {
+      "type": "text"
+    },
+    "image": {
+      "type": "string"
+    }
+  }
+}
